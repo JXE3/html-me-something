@@ -11,10 +11,6 @@ ul {
 font-size: 21px;
 }
 
-img {
-width: 600;
-margin-left: 350px;
-}
 
 h1 {
 text-align: center;
@@ -27,4 +23,17 @@ text-align: center;
 
 li {
 margin-left: 350px;
+}
+
+#myFooter {
+color: blue;
+} 
+
+.site-Width {
+width: 600;
+margin-left: 350px;
+}
+
+.myPadding {
+padding-top: 50px
 }
